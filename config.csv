@@ -96,5 +96,6 @@
 -noeThrow,,tophat
 -aleHit,,tophat
 -uroPonder,,LimeGreen
-tsurobi,,starlitehi
-hemoko,,starlitehi
+-tsurobi,,starlitehi
+-hemoko,,starlitehi
+-penguiRotateDeleted,,goobert
